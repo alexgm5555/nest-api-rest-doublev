@@ -7,7 +7,7 @@ Este proyecto fue generado con el framework nest.js
 ## Despliegue
 1. Clonar proyecto con el siguiente comando:
 ```bash
-git clone https://github.com/alexgm5555/nest_api_fh.git
+git clone https://github.com/alexgm5555/nest-api-rest-doublev.git
 ```
 2. Instalar Dependencias
 ```bash
@@ -30,7 +30,7 @@ npm run start:dev
 2. La versión de Docker Desktop que se utilizó fue : ```v4.15.0```
 
 ## EndPoint
-7. Los EndPoint Disponibles son:
+1. Los EndPoint Disponibles son:
 ```
 GET  http://localhost/api/users //Crea usuarios
 POST http://localhost/api/users  //Lista de usuarios registrados en el ambiente local
