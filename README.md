@@ -27,11 +27,10 @@ npm run start:dev
 ### Recomendaciones
 1. La versión de node que se utilizó para desarrollar este proyecto fue:
 ```v16.13.0```\  Recomendamos hacer el despliegè con esa versión.
-2. La version de Docker Desktop que se utilizó fue : ```v4.15.0```
+2. La versión de Docker Desktop que se utilizó fue : ```v4.15.0```
 
-## EndPint
+## EndPoint
 7. Los EndPoint Disponibles son:
-Autenticación por autorization barer Token
 ```
 GET  http://localhost/api/users //Crea usuarios
 POST http://localhost/api/users  //Lista de usuarios registrados en el ambiente local
